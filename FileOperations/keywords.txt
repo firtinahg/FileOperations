@@ -1,0 +1,10 @@
+FileOp	KEYWORD1
+getCurrentPathName	KEYWORD2
+definePath	KEYWORD2
+Read	KEYWORD2
+Write	KEYWORD2
+Append	KEYWORD2
+Delete	KEYWORD2
+IsDirectory	KEYWORD2
+GetSize	KEYWORD2
+Rename	KEYWORD2
