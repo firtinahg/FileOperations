@@ -1,4 +1,4 @@
-# LittleFSImplement
+#FileOperations
 
 You have to download LittleFS library before using this library. You can use the link : https://github.com/esp8266/Arduino/tree/master/libraries/LittleFS.
 
